@@ -1,1 +1,2 @@
 A new file created in vscode from local master branch.
+New line here.
